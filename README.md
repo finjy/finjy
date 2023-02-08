@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Anton
+
+I'm .NET web developer from Saint-Petersburg, Russia, now based in Tashkent, Uzbekistan.
+
 
 <!--
 **finjy/finjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
