@@ -4,7 +4,6 @@ I'm .NET web developer from Saint-Petersburg, Russia, now based in Tashkent, Uzb
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=finjy&theme=highcontrast&show_icons=true&count_private=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=finjy&layout=compact)
 
 <!--
 **finjy/finjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
